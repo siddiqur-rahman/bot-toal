@@ -2,7 +2,7 @@
 <head>
 	<title> bot-tola</title>
 	<style>
-		.header{
+		#header{
 			text-align: center;
 		}
 	</style>
